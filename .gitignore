@@ -1,0 +1,11 @@
+
+*.bak
+Backup_*
+
+*.qws
+*.rpt
+db/
+incremental_db/
+simulation/
+output_files/
+theme_book/
