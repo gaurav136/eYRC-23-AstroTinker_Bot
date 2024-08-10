@@ -1,11 +1,13 @@
-
+#ignore this files
 *.bak
-Backup_*
-
 *.qws
 *.rpt
+
+#ignore this folders
 db/
 incremental_db/
 simulation/
 output_files/
-theme_book/
+hterm-windows/
+grader_app/
+
